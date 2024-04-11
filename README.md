@@ -16,21 +16,13 @@ Description of your project goes here. Explain what the project does, its purpos
     ```
 
 ## Usage
-
+Run the python file:
  ```bash
    python hand_gesture_detection.py
  ```
+While running the python file , the live camera window will pop up and it will make prediction on live window . For example : 
 
-## Example
+![image](https://github.com/zihath/hand_gesture/assets/133570794/266908b4-3428-4c66-bd12-063f030a1d1e)
 
-Include an example section if possible. This can help users understand how your project works in practice.
-
-## Contact
-
-Provide contact information for yourself or your team, such as email addresses or social media profiles.
-
-## Acknowledgements
-
-Any acknowledgements or acknowledgements of third-party resources or tools used in the project.
 
      
