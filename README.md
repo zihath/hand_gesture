@@ -1,7 +1,7 @@
 # HAND GESTURE DETECTION WITH MEDIAPIPE
 
 ## How to run 
-open the terminal and allow the steps \n
+open the terminal and allow the steps /n
 First clone the repository
 git clone https://github.com/zihath/hand_gesture
 
