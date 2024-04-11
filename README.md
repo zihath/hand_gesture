@@ -1,6 +1,10 @@
 # HAND GESTURE DETECTION WITH MEDIAPIPE
 
-Description of your project goes here. Explain what the project does, its purpose, and any key features. You may also include any relevant background information.
+In this project we uses pre-trained Mediapipe Hand Gesture Classification model. Hand Gesture Classification model uses hand landmarks produced by MediaPipe Hands Model to classify a hand pose as onr of the 10 hand gesture classes namely (okay,peace,thumbs up,thumbs down,call me,stop,rock,live long,fist,smile).
+
+You can see the model_card.pdf for model architecture. 
+I added code_explanation.txt for code explanation.
+
 
 ## Installation
 
